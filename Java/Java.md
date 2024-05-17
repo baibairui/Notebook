@@ -4,6 +4,7 @@
 -  **[二哥的JAVA进阶之路](./书/二哥的%20Java%20进阶之路亮白版.pdf)**
 -  **[Head First Java](./书/Head%20First%20Java%20中文高清版.pdf)**
 -  **[JAVA技术手册](./书/[图灵程序设计丛书].Java技术手册.第6版.pdf)**
+-  **[Spring Boot中文参考手册](./书/spring-boot-中文参考手册.pdf)**
 ---
 ## 笔记
 
