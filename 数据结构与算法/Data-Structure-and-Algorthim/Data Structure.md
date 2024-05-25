@@ -184,6 +184,4 @@ AVL树是一种自平衡的二叉搜索树，得名于其发明者 G. M. Adelson
 
 ## 字典结构
 
-### HashMap
-### linkedHashMap
-### TreeSet
+

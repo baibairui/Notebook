@@ -229,8 +229,6 @@ public class RunoobTest {
 **AbstractSequentialList**是一个继承于**AbstractList**的抽象类，为**LinkedList**提供了方法骨架
 
 
-
-
 #### 2.实现了**List，Deque,Cloneable,Serializable接口**
 
 
@@ -245,5 +243,3 @@ public class LinkedList<E>
 
 ![alt text](image-14.png)
 
-
-#### 3.
